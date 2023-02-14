@@ -1,0 +1,27 @@
+{
+  "name": "game_test_problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "nodenv": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashuta/game_test_problem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashuta/game_test_problem/issues"
+  },
+  "homepage": "https://github.com/kashuta/game_test_problem#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
